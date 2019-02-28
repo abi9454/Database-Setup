@@ -1,0 +1,16 @@
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\bin\Debug\netcoreapp2.2\SP19.P2.Web.deps.json
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\bin\Debug\netcoreapp2.2\SP19.P2.Web.runtimeconfig.json
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\bin\Debug\netcoreapp2.2\SP19.P2.Web.runtimeconfig.dev.json
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\bin\Debug\netcoreapp2.2\SP19.P2.Web.dll
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\bin\Debug\netcoreapp2.2\SP19.P2.Web.pdb
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.csprojAssemblyReference.cache
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.RazorAssemblyInfo.cache
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.RazorAssemblyInfo.cs
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.AssemblyInfo.cs
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.dll
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.pdb
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\bin\Debug\netcoreapp2.2\SP19.P2.Web.Views.dll
+C:\Users\Abhishek\Documents\CMPS383\sp19-p02-g06\SP19.P2.Web\obj\Debug\netcoreapp2.2\SP19.P2.Web.csproj.CopyComplete
